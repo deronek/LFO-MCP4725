@@ -16,7 +16,9 @@
 #define SIGNAL_TYPE_SAW 2
 #define SIGNAL_TYPE_EXP 3
 
+// ------------ change this ------------
 #define SIGNAL_TYPE SIGNAL_TYPE_EXP
+// ------------ change this ------------
 
 #if SIGNAL_TYPE == SIGNAL_TYPE_SINE
 uint16_t const PROGMEM lut[] = {
