@@ -9,7 +9,6 @@
 
 #include "dac.h"
 #include "lut.h"
-#include "usart.h"
 #include "timer.h"
 #include "adc.h"
 
